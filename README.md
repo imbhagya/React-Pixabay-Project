@@ -1,5 +1,5 @@
 #Demo
-#https://app.netlify.com/projects/shrees-pixabay-project/configuration/general
+#https://shrees-pixabay-project.netlify.app/
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
